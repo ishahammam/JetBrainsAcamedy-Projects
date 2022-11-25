@@ -1,4 +1,4 @@
-package bot;
+package simple_chatty_bot;
 
 import java.util.Scanner;
 
