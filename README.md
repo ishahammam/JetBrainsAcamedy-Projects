@@ -1,5 +1,4 @@
 # JetBrains Academy | Projects
---------------------------------
 
 ## Difficulty Level: Easy
 1) Simple Chatty Bot
