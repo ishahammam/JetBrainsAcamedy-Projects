@@ -1,2 +1,3 @@
-# Simple-Chatty-Bot
-JetBrains Academy | Project: Simple Chatty Bot
+# JetBrains Academy | Projects
+
+1) Simple Chatty Bot
