@@ -1,4 +1,4 @@
-package ZooKeeper;
+package src.ZooKeeper;
 
 import java.util.Scanner;
 

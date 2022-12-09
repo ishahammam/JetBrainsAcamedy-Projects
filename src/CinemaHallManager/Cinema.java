@@ -1,4 +1,4 @@
-package CinemaHallManager;
+package src.CinemaHallManager;
 
 import java.util.Arrays;
 import java.util.Scanner;
