@@ -6,4 +6,8 @@
 
 ## Difficulty Level: Medium
 1) Cinema Hall Manager
-2) 
+2) Tic-Tac-Toe Game
+
+## Difficulty Level: Hard
+1) Chuck Norris Cipher Encoder 🟡
+2)
